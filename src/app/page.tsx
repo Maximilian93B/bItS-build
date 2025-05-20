@@ -11,7 +11,7 @@ export default function Home() {
       <TattooHero />
       <HorizontalSplitParallax />
       <ArtistShowcase />
-      <ParallaxSections />
+      <ParallaxSections /> 
       <DynamicGallery />
       <CtaSection />
     </div>
